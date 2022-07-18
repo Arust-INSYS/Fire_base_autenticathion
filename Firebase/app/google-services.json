@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066091950928",
+    "project_id": "cuencar-arust",
+    "storage_bucket": "cuencar-arust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066091950928:android:6744043444f7f431b9f255",
+        "android_client_info": {
+          "package_name": "com.arust_app.cuencar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066091950928-t0aubngoq5lntsp7vk7c7r46kvde6c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxh3aUpHtXwREUxXvL0u9yImBHtmKSc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066091950928-t0aubngoq5lntsp7vk7c7r46kvde6c09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cuencar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="invalid_mail">Ingrese el mail valido</string>
+    <string name="invalid_password">Ingrese una contraseña mayor a 6 dígitos</string>
+    <string name="usuarioNombre">TextView</string>
+
+</resources>
